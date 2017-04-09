@@ -86,7 +86,7 @@ PrivateKey=certs/client.key
 {}={};8883;
 ```
 
-#### rsyslog service need to be restarted
+#### rsyslog service needs to be restarted
 (ex. Debian)
 > service rsyslog restart
 
