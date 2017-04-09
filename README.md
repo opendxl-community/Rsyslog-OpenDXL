@@ -6,7 +6,7 @@ Rsyslog is an open-source software utility used on UNIX and Unix-like computer s
 It implements the basic syslog protocol, extends it with content-based filtering, rich filtering capabilities, flexible configuration options and adds features such as using TCP for transport.
 McAfee Data Exchange Layer can be a communication bus where the syslog message can be forwarded for further consume of information.
 
-![Alt text](https://cloud.githubusercontent.com/assets/24607076/24837727/9e6e1960-1d32-11e7-8137-a1eed0e8baa2.png "Structure")
+![Alt text](https://cloud.githubusercontent.com/assets/24607076/24838967/0c684b54-1d4a-11e7-8a06-d43aade6f368.png "Structure")
 
 ## Requirements
 #### Rsyslog comes as the default logging program in many Unix systems:
