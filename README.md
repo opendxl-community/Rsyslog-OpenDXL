@@ -11,16 +11,7 @@ McAfee Data Exchange Layer can be a communication bus where the syslog message c
 ## Requirements
 #### Rsyslog comes as the default logging program in many Unix systems:
 
-* Fedora
-* openSUSE
-* Debian GNU/Linux
-* Ubuntu
-* Red Hat Enterprise Linux
-* SUSE Linux Enterprise Server
-* Solaris
-* FreeBSD
-* Gentoo
-* Arch Linux
+Fedora, openSUSE, Debian GNU/Linux, Ubuntu, Red Hat Enterprise Linux, SUSE Linux Enterprise Server, Solaris, FreeBSD, Gentoo, Arch Linux
 
 #### McAfee OpenDXL
 
