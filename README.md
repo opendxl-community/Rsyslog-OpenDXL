@@ -1,0 +1,1 @@
+# Rsyslog-OpenDXL
