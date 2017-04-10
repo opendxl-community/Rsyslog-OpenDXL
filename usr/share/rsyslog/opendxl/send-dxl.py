@@ -16,11 +16,9 @@ def main(argv):
 	TYPE_PAYLOAD = 'syslog'
 	PAYLOAD = sys.argv[1]
 
-
-
 	DXL_MESSAGE['SRC_HOST'] = IP
 	DXL_MESSAGE['TYPE_PAYLOAD'] = TYPE_PAYLOAD
-	DXL_MESSAGE['PAYLOAD'] = sys.argv[1]
+	DXL_MESSAGE['PAYLOAD'] = PAYLOAD
 
 	with DxlClient(config) as client:
 		client.connect()
